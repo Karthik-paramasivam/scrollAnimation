@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scrollAnimation/static/css/main.2e634c98.css",
+    "main.js": "/scrollAnimation/static/js/main.b2bcdda5.js",
+    "static/js/453.49b82efc.chunk.js": "/scrollAnimation/static/js/453.49b82efc.chunk.js",
+    "static/media/PizzaImage1.jpg": "/scrollAnimation/static/media/PizzaImage1.07c35973c356534e1541.jpg",
+    "static/media/PizzaImage2.jpg": "/scrollAnimation/static/media/PizzaImage2.9e734ffbe3424e785a23.jpg",
+    "static/media/PizzaImage3.jpg": "/scrollAnimation/static/media/PizzaImage3.ba1665892cb9e5947c69.jpg",
+    "static/media/Pizzalogo.jpg": "/scrollAnimation/static/media/Pizzalogo.dccac1336ab45e9d24bc.jpg",
+    "static/media/logo.svg": "/scrollAnimation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/scrollAnimation/index.html",
+    "main.2e634c98.css.map": "/scrollAnimation/static/css/main.2e634c98.css.map",
+    "main.b2bcdda5.js.map": "/scrollAnimation/static/js/main.b2bcdda5.js.map",
+    "453.49b82efc.chunk.js.map": "/scrollAnimation/static/js/453.49b82efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e634c98.css",
+    "static/js/main.b2bcdda5.js"
+  ]
+}
